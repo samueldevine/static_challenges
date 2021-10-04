@@ -1,0 +1,71 @@
+#header {
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#login {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#navBar {
+    background-color: rgba(50, 50, 50, 1);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12;
+    padding: 20px;
+    text-align: right;
+    word-spacing: 10px;
+}
+
+.mainBody {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 1024px;
+}
+
+#DAM {
+    width: 1024px;
+}
+
+.text {
+    margin-left: 10px;
+}
+
+h2 {
+    font-size: 20;
+    font-weight: bold;
+}
+
+aside {
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    width: 20%;
+    float: right;
+  }
+
+.asideimg {
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#footer {
+    background-color: rgba(50, 50, 50, 1);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12;
+    padding: 20px;
+}
